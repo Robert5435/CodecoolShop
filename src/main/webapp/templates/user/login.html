@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<div th:replace="header.html :: header"></div>
+<body>
+
+<form action="/login" method="post">
+  Name:<input type="text" name="userName"><br>
+  Password:<input type="password" name="userPass"><br>
+  <input type="submit" value="login">
+</form>
+
+<div th:replace="footer.html :: footer"></div>
+</body>
+</html>

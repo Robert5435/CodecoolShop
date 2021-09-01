@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<div th:replace="header.html :: header"></div>
+<body>
+<form action="/register" method="post">
+
+  Name:<input type="text" name="userName"/><br/><br/>
+  Password:<input type="password" name="userPass"/><br/><br/>
+  Email Id:<input type="text" name="userEmail"/><br/><br/>
+
+  <input type="submit" value="register"/>
+
+</form>
+
+<div th:replace="footer.html :: footer"></div>
+</body>
+</html>

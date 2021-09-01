@@ -73,7 +73,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Any computer belonging to millennia III will work.
+Any computer belonging to millennia II will work.
 
 ### Installation
 
@@ -84,7 +84,7 @@ Any computer belonging to millennia III will work.
    For a guide how to clone a Git Repo press [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository).
 
 
-2.Install an IDE to be able to run the project. As a suggestion, check out Intellij Idea.
+2.Install any IDE which supports JAVA to be able to run the project. As a suggestion, check out Intellij Idea.
 
 
 3. Run this project, you won't need aditional packages
